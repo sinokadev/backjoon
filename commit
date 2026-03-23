@@ -11,3 +11,5 @@ else
     git commit -m "$FILE_NAMES"
     echo "Commit complete: $FILE_NAMES"
 fi
+
+git push origin main
